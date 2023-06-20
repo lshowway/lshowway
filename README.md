@@ -1,5 +1,4 @@
-- 👋 Hi there! My name is Qinghua Zhao, and I'm a PhD candidate at Beihang University. Currently, I'm visiting the Coastal lab at Copenhagen University.  
-- 👀 My research interests include sentiment analysis, knowledge enhancement, and knowledge probing.
+- 👀 My research interests include sentiment analysis, knowledge enhancement, word order, language model analysis, the future of NLP, and knowledge probing.
 - 🌱 I'm also currently learning about probing the analogy relation in language models.
 - 💞️ I'm looking to collaborate on projects about knowledge in LMs. If you have any relevant projects that you think I might be able to contribute to, I'd love to hear more about them.
 <!---
